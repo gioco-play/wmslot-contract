@@ -1,0 +1,1 @@
+# WMSlot interface
